@@ -16,8 +16,6 @@ A simple and interactive Pokédex built with JavaScript that displays Pokémon b
 - JavaScript  
 - REST API (PokéAPI)
 
-## 🚀 Getting Started
-
 ## 📸 Preview
 
 ![preview](ressources/preview.png)
@@ -25,6 +23,9 @@ A simple and interactive Pokédex built with JavaScript that displays Pokémon b
 ## 🎓 Based On
 
 This project was inspired by a JavaScript training course focused on API integration and front-end development.
+
+## 🚀 Getting Started
+- Live site - [Pokedex](https://pokedex-seven-silk.vercel.app/)
 
 ## 👩‍💻 Author
 
